@@ -1,0 +1,7 @@
+C:\Users\Eren Değirmenci\source\repos\NDP ÖDEV 2 1.0\NDP ÖDEV 2 1.0\obj\Debug\NDP ÖDEV 2 1.0.csprojAssemblyReference.cache
+C:\Users\Eren Değirmenci\source\repos\NDP ÖDEV 2 1.0\NDP ÖDEV 2 1.0\obj\Debug\NDP ÖDEV 2 1.0.csproj.CoreCompileInputs.cache
+C:\Users\Eren Değirmenci\source\repos\NDP ÖDEV 2 1.0\NDP ÖDEV 2 1.0\bin\Debug\NDP ÖDEV 2 1.0.exe.config
+C:\Users\Eren Değirmenci\source\repos\NDP ÖDEV 2 1.0\NDP ÖDEV 2 1.0\bin\Debug\NDP ÖDEV 2 1.0.exe
+C:\Users\Eren Değirmenci\source\repos\NDP ÖDEV 2 1.0\NDP ÖDEV 2 1.0\bin\Debug\NDP ÖDEV 2 1.0.pdb
+C:\Users\Eren Değirmenci\source\repos\NDP ÖDEV 2 1.0\NDP ÖDEV 2 1.0\obj\Debug\NDP ÖDEV 2 1.0.exe
+C:\Users\Eren Değirmenci\source\repos\NDP ÖDEV 2 1.0\NDP ÖDEV 2 1.0\obj\Debug\NDP ÖDEV 2 1.0.pdb
